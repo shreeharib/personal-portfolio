@@ -195,13 +195,13 @@ export function Contact() {
         </div>
 
         {/* Call to Action */}
-        <div className="mt-16 text-center">
+{/*         <div className="mt-16 text-center">
           <div className="inline-flex items-center justify-center rounded-full bg-primary/5 px-6 py-3 border border-primary/10">
             <p className="text-sm text-muted-foreground">
               Available for freelance opportunities and collaborations
             </p>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
