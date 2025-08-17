@@ -36,7 +36,7 @@ export function Footer() {
             <Linkedin className="h-5 w-5 text-muted-foreground transition-colors hover:text-foreground" />
           </Link>
           <Link
-            href="https://youtube.com/@shreeharib"
+            href="https://www.youtube.com/@hari_and_ai"
             target="_blank"
             aria-label="YouTube"
           >
