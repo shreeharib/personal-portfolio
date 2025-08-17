@@ -65,10 +65,7 @@ export function Research() {
             <h2 className="text-xl font-bold tracking-tighter sm:text-2xl">
               Awards and Honours
             </h2>
-            <p className="max-w-[700px] text-muted-foreground md:text-base">
-              Contributions to the field through research, competitions, and
-              knowledge sharing.
-            </p>
+    
           </div>
         </div>
         <div className="mx-auto grid grid-cols-1 gap-6 pt-10 md:grid-cols-2 lg:grid-cols-3">
