@@ -40,8 +40,7 @@ export function Hero() {
           {/* Description */}
           <p className="max-w-2xl mx-auto text-muted-foreground md:text-lg leading-relaxed">
             I love exploring ideas and sharing what I learn with this community.
-            It's something like where creativity meets problem-solving. Have a
-            look at my profile, and if you love solving problems, let's get
+            Have a look at my profile, and if you love solving problems, let's get
             connected.
           </p>
 
