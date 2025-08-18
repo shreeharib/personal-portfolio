@@ -46,7 +46,7 @@ export function Hero() {
 
           {/* CTA Buttons */}
           <div className="flex flex-col gap-4 sm:flex-row sm:justify-center sm:gap-4 pt-4">
-            <Link href="#contact">
+{/*             <Link href="#contact">
               <Button
                 size="lg"
                 className="group w-full sm:w-auto shadow-lg hover:shadow-primary/20 transition-all duration-300"
@@ -54,7 +54,7 @@ export function Hero() {
                 Get in Touch{" "}
                 <ChevronRight className="h-4 w-4 ml-1 transition-transform group-hover:translate-x-1" />
               </Button>
-            </Link>
+            </Link> */}
             <Link href="#projects">
               <Button
                 variant="outline"
