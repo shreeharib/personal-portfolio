@@ -38,11 +38,11 @@ export function Hero() {
           </h1>
 
           {/* Description */}
-          <p className="max-w-2xl mx-auto text-muted-foreground md:text-lg leading-relaxed">
+{/*           <p className="max-w-2xl mx-auto text-muted-foreground md:text-lg leading-relaxed">
             I love exploring ideas and sharing what I learn with this community.
             Have a look at my profile, and if you love solving problems, let's get
             connected.
-          </p>
+          </p> */}
 
           {/* CTA Buttons */}
           <div className="flex flex-col gap-4 sm:flex-row sm:justify-center sm:gap-4 pt-4">
