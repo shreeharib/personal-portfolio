@@ -34,7 +34,7 @@ export function Hero() {
 
           {/* Main Title */}
           <h1 className="text-xl md:text-2xl lg:text-3xl font-black tracking-tight">
-            Welcome to my corner of the internet
+            Welcome to my profile!
           </h1>
 
           {/* Description */}
